@@ -1,0 +1,1 @@
+Kuşu boruların köşelerine çarptırarak bitiş çizgisine ilerletmeye çalış.
